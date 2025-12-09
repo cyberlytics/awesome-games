@@ -20,10 +20,6 @@
 - [Open Source Games](#open-source-games)
 - [Abandonware](#abandonware)
 - [Footer](#footer)
-  - [Future Work](#future-work)
-  - [Contribute](#contribute)
-  - [Backers](#backers)
-  - [License](#license)
 
 <!-- tocstop -->
 
